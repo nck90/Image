@@ -1,0 +1,9 @@
+# backend/requirements.txt
+
+Flask
+Flask-CORS
+Flask-RESTful
+opencv-python
+scikit-image
+numpy
+gunicorn
